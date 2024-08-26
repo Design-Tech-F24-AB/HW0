@@ -36,5 +36,9 @@ Once the environment is done installing, you should see some instructions on how
 
 ### Step 3: Open the notebook
 
+In the file explorer on the left side of the screen there will be a file called HW0.ipynb. Click on this file to open it. You should see the notebook open in a new tab. 
 
+At the top right-hand side of the tab you should see a button that says 'Select Kernel'. A kernel is basically the environment that the notebook runs in. You should see another menu pop up. It may say 'Select a Kernel Source', you should select the python one. Then select the environment that is called 'DESIGN-6197-4197'.
+
+Now you should be all set up and ready to go! You can begin following the instructions in the notebook to complete the rest of the assignment. Honestly, the hardest part is over. 
 
