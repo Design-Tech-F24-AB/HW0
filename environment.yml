@@ -1,4 +1,4 @@
-name: import_testing
+name: DESIGN-6197-4197
 channels:
   - conda-forge
   - defaults
